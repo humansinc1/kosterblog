@@ -1,0 +1,4 @@
+{{ $image := resources.GetMatch (.Get "src") }}
+<video width="720" style="max-width:100%;" controls autoplay muted>
+    <source src="{{ $image.RelPermalink }}" type="video/mp4">
+</video>
