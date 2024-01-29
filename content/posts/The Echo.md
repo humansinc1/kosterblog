@@ -8,4 +8,4 @@ categories = "Моя музыка"
 
 У меня получилось что-то про космос, про созерцание бесконечного Пути:
 
-https://youtu.be/WkPyqWtOClQ?feature=shared
+{{< youtube WkPyqWtOClQ >}}
