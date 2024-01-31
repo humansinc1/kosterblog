@@ -73,12 +73,8 @@ tocopen = false
   Content = "Добро пожаловать в мой блог"
 
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/"
-
-  [[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/"
+  name = "instagram"
+  url = "https://www.instagram.com/koster_podcast"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
