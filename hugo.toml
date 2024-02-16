@@ -105,10 +105,16 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
+identifier = "search"
+name = "Поиск"
+url = "search/"
+weight = 10
+
+[[menu.main]]
 identifier = "categories"
 name = "Категории"
 url = "/categories/"
-weight = 10
+weight = 20
 
 [[menu.main]]
 identifier = "Archive"
