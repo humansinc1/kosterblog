@@ -48,7 +48,7 @@ tocopen = false
 
   [params.label]
   text = "Главная"
-  icon = "/apple-touch-icon.png"
+  icon = "images/bonfire.png"
   iconHeight = 35
 
   [params.profileMode]
