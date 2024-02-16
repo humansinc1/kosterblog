@@ -48,7 +48,7 @@ tocopen = false
 
   [params.label]
   text = "Главная"
-  icon = "images/bonfire.png"
+  #icon = "images/bonfire.png"
   iconHeight = 35
 
   [params.profileMode]
@@ -69,8 +69,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Привет 👋"
-  Content = "Добро пожаловать в мой блог"
+  Title = "🔥 Привет"
+  Content = "Это личный блог автора подкаста Костер"
 
   [[params.socialIcons]]
   name = "instagram"
