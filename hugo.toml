@@ -69,21 +69,21 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "🔥 Привет"
-  Content = "Это личный блог автора подкаста Костер"
+  Title = "Привет"
+  Content = "Это блог автора подкаста Костер 🔥"
 
   [[params.socialIcons]]
   name = "instagram"
   url = "https://www.instagram.com/koster_podcast"
 
 [params.analytics.google]
-SiteVerificationTag = "XYZabc"
+SiteVerificationTag = "G-NXD4PJTV1J"
 
 [params.analytics.bing]
 SiteVerificationTag = "XYZabc"
 
 [params.analytics.yandex]
-SiteVerificationTag = "XYZabc"
+SiteVerificationTag = "93501423"
 
   [params.cover]
   hidden = true
