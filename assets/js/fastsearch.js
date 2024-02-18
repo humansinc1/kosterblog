@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open('GET', "https://kosterpodcast.site/index.json");
+    xhr.open('GET', "https://humansinc1.github.io/kosterblog/index.json");
     xhr.send();
 }
 
