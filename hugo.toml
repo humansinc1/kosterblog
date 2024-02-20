@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://kosterpodcast.site"
 title = "Костер"
 paginate = 5
 theme = "PaperMod"
@@ -19,7 +19,7 @@ title = "Костер"
 description = "Блог"
 keywords = [ "Блог", "Подкаст Костер", "Подкаст" ]
 author = "Сергей Л"
-images = "images/bonfire-1.jpg"
+images = "/assets/images/bonfire-1.jpg"
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -40,7 +40,7 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "images/bonfire.png"
+  favicon = "/assets/images/bonfire.png"
   #favicon16x16 = "<link / abs url>"
   #favicon32x32 = "<link / abs url>"
   #apple_touch_icon = "<link / abs url>"
