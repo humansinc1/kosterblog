@@ -19,7 +19,7 @@ title = "Костер"
 description = "Блог"
 keywords = [ "Блог", "Подкаст Костер", "Подкаст" ]
 author = "Сергей Л"
-images = [ "images/bonfire-1.jpg" ]
+images = "images/bonfire-1.jpg"
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -41,10 +41,10 @@ tocopen = false
 
   [params.assets]
   favicon = "images/bonfire.png"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  #favicon16x16 = "<link / abs url>"
+  #favicon32x32 = "<link / abs url>"
+  #apple_touch_icon = "<link / abs url>"
+  #safari_pinned_tab = "<link / abs url>"
 
   [params.label]
   text = "Главная"
@@ -79,8 +79,8 @@ tocopen = false
 [params.analytics.google]
 SiteVerificationTag = "G-NXD4PJTV1J"
 
-[params.analytics.bing]
-SiteVerificationTag = "XYZabc"
+#[params.analytics.bing]
+#SiteVerificationTag = "XYZabc"
 
 [params.analytics.yandex]
 SiteVerificationTag = "93501423"
@@ -90,10 +90,10 @@ SiteVerificationTag = "93501423"
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
+  #[params.editPost]
+  #URL = "https://github.com/<path_to_repo>/content"
+  #Text = "Suggest Changes"
+  #appendFilePath = true
 
   [params.fuseOpts]
   isCaseSensitive = false
@@ -104,11 +104,11 @@ SiteVerificationTag = "93501423"
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "search"
-name = "Поиск"
-url = "search/"
-weight = 10
+#[[menu.main]]
+#identifier = "search"
+#name = "Поиск"
+#url = "search/"
+#weight = 10
 
 [[menu.main]]
 identifier = "categories"
