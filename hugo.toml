@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://kosterpodcast.site/"
 title = "Костер"
 paginate = 5
 theme = "PaperMod"
@@ -6,7 +6,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-123-45"
+googleAnalytics = "G-NXD4PJTV1J"
 pygmentsUseClasses = true
 
 [minify]
@@ -17,9 +17,9 @@ minifyOutput = true
 env = "production"
 title = "Костер"
 description = "Блог"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+keywords = [ "Блог", "Подкаст Костер", "Подкаст" ]
 author = "Сергей Л"
-images = [ "<link or path of image for opengraph, twitter-cards>" ]
+images = [ "images/bonfire-1.jpg" ]
 DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
@@ -40,7 +40,7 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
+  favicon = "images/bonfire.png"
   favicon16x16 = "<link / abs url>"
   favicon32x32 = "<link / abs url>"
   apple_touch_icon = "<link / abs url>"
@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Привет"
-  Content = "Это блог автора подкаста Костер 🔥"
+  Content = "Это блог автора подкаста 🔥Костер"
 
   [[params.socialIcons]]
   name = "instagram"
