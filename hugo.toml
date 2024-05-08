@@ -1,4 +1,4 @@
-baseURL = "https://kosterpodcast.site"
+#baseURL = 
 title = "Костер"
 paginate = 5
 theme = "PaperMod"
