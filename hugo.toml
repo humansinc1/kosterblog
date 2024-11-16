@@ -124,3 +124,8 @@ weight = 40
 
 [markup.highlight]
 noClasses = false
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
