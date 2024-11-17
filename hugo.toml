@@ -69,8 +69,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Привет"
-  Content = "Меня зовут Сергей Лосев и это мой блог"
+  Title = "Блог Лосева"
+  Content = "Летопись некоторых моментов моей жизни"
 
   #[[params.socialIcons]]
   #name = "instagram"
