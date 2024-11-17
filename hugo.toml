@@ -1,5 +1,5 @@
-#baseURL = 
-title = "Костер"
+baseURL = https://humansinc1.github.io
+title = "Блог Лосева"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,9 +15,9 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Костер"
-description = "Блог"
-keywords = [ "Блог", "Подкаст Костер", "Подкаст" ]
+title = "Блог Лосева"
+description = "Личный блог Сергея Лосева"
+keywords = [ "блог" ]
 author = "Сергей Л"
 images = "/assets/images/bonfire-1.jpg"
 DateFormat = "January 2, 2006"
