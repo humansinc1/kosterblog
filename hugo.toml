@@ -1,5 +1,5 @@
 baseURL = "https://humansinc1.github.io/kosterblog"
-title = "Блог Лосева"
+title = "Блог Сергея Л"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Блог Лосева"
-description = "Личный блог Сергея Лосева"
+title = "Блог Сергея Л"
+description = "Личный блог Сергея Л"
 keywords = [ "блог" ]
 author = "Сергей Л"
 images = "/assets/images/bonfire-1.jpg"
@@ -69,12 +69,12 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Блог Лосева"
-  Content = "Летопись некоторых моментов моей жизни"
+  Title = "Блог Сергея Л"
+  Content = "Что-то интересное. Как мне кажется."
 
-  #[[params.socialIcons]]
-  #name = "instagram"
-  #url = "https://www.instagram.com/koster_podcast"
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://www.instagram.com/ressol385"
 
 [params.analytics.google]
 SiteVerificationTag = "G-NXD4PJTV1J"
