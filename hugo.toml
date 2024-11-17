@@ -83,7 +83,7 @@ SiteVerificationTag = "G-CVTCM14G46"
 #SiteVerificationTag = "XYZabc"
 
 [params.analytics.yandex]
-SiteVerificationTag = "93501423"
+SiteVerificationTag = "f98ec71b83180325"
 
   [params.cover]
   hidden = true
