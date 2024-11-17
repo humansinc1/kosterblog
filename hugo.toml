@@ -70,11 +70,11 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Привет"
-  Content = "Это блог автора подкаста 🔥Костер"
+  Content = "Меня зовут Сергей Лосев и это мой блог"
 
-  [[params.socialIcons]]
-  name = "instagram"
-  url = "https://www.instagram.com/koster_podcast"
+  #[[params.socialIcons]]
+  #name = "instagram"
+  #url = "https://www.instagram.com/koster_podcast"
 
 [params.analytics.google]
 SiteVerificationTag = "G-NXD4PJTV1J"
@@ -115,6 +115,12 @@ identifier = "categories"
 name = "Категории"
 url = "/categories/"
 weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "Обо мне"
+url = "about"
+weight = 30
 
 [[menu.main]]
 identifier = "Archive"
