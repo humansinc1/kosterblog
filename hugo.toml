@@ -6,7 +6,7 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "G-NXD4PJTV1J"
+googleAnalytics = "G-CVTCM14G46"
 pygmentsUseClasses = true
 
 [minify]
