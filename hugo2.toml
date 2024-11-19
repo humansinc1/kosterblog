@@ -1,4 +1,4 @@
 baseURL = 'https://humansinc1.github.io/kosterblog'
 languageCode = 'ru-ru'
-title = 'My New Hugo Site'
+title = 'Блог Сергея Л'
 theme = 'PaperMod'
