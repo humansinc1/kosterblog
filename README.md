@@ -1,1 +1,1 @@
-Hi! This is my experiment website based on HUGO framework
+Hi! This is my website based on HUGO framework
