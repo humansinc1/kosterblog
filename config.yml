@@ -3,7 +3,7 @@
 baseURL: "https://humansinc1.github.io/kosterblog"
 title: Блог Сергея Л
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
-paginate: 5
+pagination.pagerSize: 5
 theme: [PaperMod]
 
 enableInlineShortcodes: true
