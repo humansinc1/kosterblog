@@ -32,9 +32,9 @@ languages:
         - name: Архив
           url: archives
           weight: 35
-        - name: Поиск
-          url: search/
-          weight: 10
+        # - name: Поиск
+        #   url: search/
+        #   weight: 10
         - name: Категории
           url: /categories/
           weight: 20
