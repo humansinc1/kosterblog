@@ -32,9 +32,9 @@ languages:
         - name: Архив
           url: archives
           weight: 35
-        # - name: Поиск
-        #   url: search/
-        #   weight: 10
+        - name: Поиск
+          url: search/
+          weight: 10
         - name: Категории
           url: /categories/
           weight: 20
@@ -149,14 +149,14 @@ params:
       - name: Tags
         url: tags
 
-  homeInfoParams:
-    Title: "Блог Сергея Л"
-    Content: >
-      Что-то интересное. Как мне кажется.
+  # homeInfoParams:
+  #   Title: "Блог Сергея Л"
+  #   Content: >
+  #     Что-то интересное. Как мне кажется.
 
-  socialIcons:
-    - name: instagram
-      url: "https://www.instagram.com/ressol385"
+  # socialIcons:
+  #   - name: instagram
+  #     url: "https://www.instagram.com/ressol385"
     # - name: github
     #   title: View Source on Github
     #   url: "https://github.com/adityatelange/hugo-PaperMod"
@@ -187,10 +187,10 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
+      # favicon: "/favicon.ico"
+      # favicon16x16: "images/favicons/favicon16x16.png"
+      # favicon32x32: "images/favicons/favicon32x32.png"
+      # apple_touch_icon: "images/favicons/apple-touch-icon.png"
   #     safari_pinned_tab: "<link / abs url>"
 
   # cover:
