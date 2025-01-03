@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Подкаст on My New Hugo Site</title>
+    <title>Подкаст on Блог Сергея Л</title>
     <link>https://humansinc1.github.io/kosterblog/categories/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/</link>
-    <description>Recent content in Подкаст on My New Hugo Site</description>
-    <generator>Hugo -- 0.139.0</generator>
-    <language>ru-ru</language>
+    <description>Recent content in Подкаст on Блог Сергея Л</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Sat, 06 Jan 2024 18:05:36 +0300</lastBuildDate>
     <atom:link href="https://humansinc1.github.io/kosterblog/categories/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
     <item>

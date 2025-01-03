@@ -24,8 +24,8 @@ languages:
     languageName: "Русский"
     weight: 1
     taxonomies:
-      category: категории
-      tag: тэги
+      category: categories
+      tag: tags
       series: series
     menu:
       main:
@@ -183,7 +183,7 @@ params:
 
   analytics:
       google:
-          SiteVerificationTag: "G-CVTCM14G46"
+          SiteVerificationTag: "G-7MRHRQSZ0N"
 
   assets:
     disableHLJS: true

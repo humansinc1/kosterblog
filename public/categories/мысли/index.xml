@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Мысли on My New Hugo Site</title>
+    <title>Мысли on Блог Сергея Л</title>
     <link>https://humansinc1.github.io/kosterblog/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/</link>
-    <description>Recent content in Мысли on My New Hugo Site</description>
-    <generator>Hugo -- 0.139.0</generator>
-    <language>ru-ru</language>
-    <lastBuildDate>Sun, 02 Jun 2024 18:05:36 +0300</lastBuildDate>
+    <description>Recent content in Мысли on Блог Сергея Л</description>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Sun, 09 Jun 2024 18:05:36 +0300</lastBuildDate>
     <atom:link href="https://humansinc1.github.io/kosterblog/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>О похвале, пользе системы и умении расслабляться</title>
+      <link>https://humansinc1.github.io/kosterblog/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</link>
+      <pubDate>Sun, 09 Jun 2024 18:05:36 +0300</pubDate>
+      <guid>https://humansinc1.github.io/kosterblog/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</guid>
+      <description>мысли про похвалу, пользу системы и умении расслабляться</description>
+    </item>
     <item>
       <title>Море информации, книга, фильм и как воспринимают любовь мужчины и женщины</title>
       <link>https://humansinc1.github.io/kosterblog/posts/more-informacii-kniga-film/</link>
