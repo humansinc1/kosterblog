@@ -181,9 +181,13 @@ params:
   # icon: icon.png
   # iconHeight: 35
 
-  analytics:
-      google:
-          SiteVerificationTag: "G-7MRHRQSZ0N"
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "G-7MRHRQSZ0N"
+
+  services:
+    googleAnalytics:
+      ID: G-7MRHRQSZ0N
 
   assets:
     disableHLJS: true
