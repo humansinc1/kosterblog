@@ -13,7 +13,8 @@ E-mail: [kullimbarra@proton.me](mailto:kullimbarra@proton.me)
 - монтаж видео-презентации для организации “Активные люди”: https://t.me/specialchildrenfootballlobnya
 - монтаж видео для мастерской “Прохрам”: https://www.youtube.com/watch?v=UZ1SgVfIoac
 - монтаж [3](https://spinabifida.mave.digital/ep-3) и [4](https://spinabifida.mave.digital/ep-4) выпуска подкаста “Совсем не страшно”
-- сверстал [сайт Точка Контакта](https://tochka-kontakta.ru), танцевальная терапия для людей с ограничением по зрению 
+- сверстал [сайт Точка Контакта](https://tochka-kontakta.ru), танцевальная терапия для людей с ограничением по зрению
+- отыграли концерт 11.04.2024 с DAGERY
 - черновой монтаж нескольких видео для Anton Booster:
     - https://www.youtube.com/watch?v=ZJBdaNUurdg
     - https://www.youtube.com/watch?v=0lmpz_kHczQ
@@ -26,3 +27,4 @@ E-mail: [kullimbarra@proton.me](mailto:kullimbarra@proton.me)
     - [Игнат Матюхов. "Битология". Часть 2: THE "DILLA" FEEL](https://www.youtube.com/watch?v=wXhhOcL2Z_w)
     - [Игнат Матюхов. "Битология". Часть 1: BREAKBEAT](https://www.youtube.com/watch?v=2sNCkz20VXs)
     - [Лекция о сакральной архитектуре Дмитрия Остроумова на форуме БудЭкспо 2021 в Минске.](https://www.youtube.com/watch?v=YBtbcMJlIPs)
+    - принимал участие в записи диска Братского хора Свято-Елисаветинского монастыря в Минске ["Надо всеми Бог"](https://music.yandex.ru/album/14099889)
