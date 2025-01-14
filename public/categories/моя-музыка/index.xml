@@ -17,6 +17,13 @@
       <description>Вот новая музыкальная мысль появилась. Появилась спонтанно, после творческого общения с моим университетским другом Женей З. Заехал к нему на работу, а он как раз придумывает звуки и музыку к одной компьютерной игре</description>
     </item>
     <item>
+      <title>Space Journey</title>
+      <link>https://humansinc1.github.io/kosterblog/posts/space-journey/</link>
+      <pubDate>Sat, 26 Aug 2023 07:06:36 +0300</pubDate>
+      <guid>https://humansinc1.github.io/kosterblog/posts/space-journey/</guid>
+      <description>In searching for...</description>
+    </item>
+    <item>
       <title>The Sky is Reflected</title>
       <link>https://humansinc1.github.io/kosterblog/posts/the-sky-is-reflected/</link>
       <pubDate>Sun, 28 Nov 2021 07:06:36 +0300</pubDate>
@@ -29,6 +36,20 @@
       <pubDate>Wed, 24 Nov 2021 07:06:36 +0300</pubDate>
       <guid>https://humansinc1.github.io/kosterblog/posts/autumn-mood/</guid>
       <description>Вот и новая композиция подъехала. Неторопливая, задумчивая.</description>
+    </item>
+    <item>
+      <title>Evening Mood</title>
+      <link>https://humansinc1.github.io/kosterblog/posts/evening-mood/</link>
+      <pubDate>Wed, 06 Jan 2021 07:06:36 +0300</pubDate>
+      <guid>https://humansinc1.github.io/kosterblog/posts/evening-mood/</guid>
+      <description>Music of inner peace in city landscapes</description>
+    </item>
+    <item>
+      <title>Mood #1</title>
+      <link>https://humansinc1.github.io/kosterblog/posts/mood-1/</link>
+      <pubDate>Mon, 12 Oct 2020 07:06:36 +0300</pubDate>
+      <guid>https://humansinc1.github.io/kosterblog/posts/mood-1/</guid>
+      <description>Music for inner peace</description>
     </item>
   </channel>
 </rss>
