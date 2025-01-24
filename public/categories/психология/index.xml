@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Психология on Блог Сергея Л</title>
-    <link>https://humansinc1.github.io/kosterblog/categories/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
+    <link>https://sergl.ru/categories/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
     <description>Recent content in Психология on Блог Сергея Л</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 06 Jan 2025 06:05:36 +0300</lastBuildDate>
-    <atom:link href="https://humansinc1.github.io/kosterblog/categories/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sergl.ru/categories/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сострадание к собственным родителям</title>
-      <link>https://humansinc1.github.io/kosterblog/posts/sostradanie-k-sobstvennym-roditelyam/</link>
+      <link>https://sergl.ru/posts/sostradanie-k-sobstvennym-roditelyam/</link>
       <pubDate>Mon, 06 Jan 2025 06:05:36 +0300</pubDate>
-      <guid>https://humansinc1.github.io/kosterblog/posts/sostradanie-k-sobstvennym-roditelyam/</guid>
+      <guid>https://sergl.ru/posts/sostradanie-k-sobstvennym-roditelyam/</guid>
       <description>О сострадании к родителям</description>
     </item>
     <item>
       <title>Терапия для радости</title>
-      <link>https://humansinc1.github.io/kosterblog/posts/terapiya-dlya-radosti/</link>
+      <link>https://sergl.ru/posts/terapiya-dlya-radosti/</link>
       <pubDate>Thu, 02 Jan 2025 10:05:36 +0300</pubDate>
-      <guid>https://humansinc1.github.io/kosterblog/posts/terapiya-dlya-radosti/</guid>
+      <guid>https://sergl.ru/posts/terapiya-dlya-radosti/</guid>
       <description>мысли про терапию и радость</description>
     </item>
   </channel>

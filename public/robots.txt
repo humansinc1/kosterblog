@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://humansinc1.github.io/kosterblog/sitemap.xml
+Sitemap: https://sergl.ru/sitemap.xml
