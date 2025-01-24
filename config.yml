@@ -187,7 +187,7 @@ params:
 
   services:
     googleAnalytics:
-      ID: G-7MRHRQSZ0N
+      ID: G-LJVNHPHLT1
 
   assets:
     disableHLJS: true
