@@ -9,6 +9,7 @@ Telegram: [@loss_m](https://t.me/loss_m)
 E-mail: [kullimbarra@proton.me](mailto:kullimbarra@proton.me)
 
 ## Последние работы:
+- улучшил аудио в видеоролике https://www.instagram.com/p/DFJ5DbAIdvN/
 - монтаж [5](https://spinabifida.mave.digital/ep-5), [6](https://spinabifida.mave.digital/ep-7) и [7](https://spinabifida.mave.digital/ep-8) эпизодов выпуска подкаста "Совсем не страшно"
 - монтаж видео-презентации для организации “Активные люди”: https://t.me/specialchildrenfootballlobnya
 - монтаж видео для мастерской “Прохрам”: https://www.youtube.com/watch?v=UZ1SgVfIoac
