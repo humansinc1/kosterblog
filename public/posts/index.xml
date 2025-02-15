@@ -4,11 +4,18 @@
     <title>Posts on Блог Сергея Л</title>
     <link>https://sergl.ru/posts/</link>
     <description>Recent content in Posts on Блог Сергея Л</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.143.1</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Fri, 24 Jan 2025 18:05:36 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:05:36 +0300</lastBuildDate>
     <atom:link href="https://sergl.ru/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Услышать себя</title>
+      <link>https://sergl.ru/posts/uslyshat-sebya/</link>
+      <pubDate>Sat, 15 Feb 2025 09:05:36 +0300</pubDate>
+      <guid>https://sergl.ru/posts/uslyshat-sebya/</guid>
+      <description>Услышать себя чтобы понять что я на самом деле хочу</description>
+    </item>
     <item>
       <title>Внимание -&gt; Энергия</title>
       <link>https://sergl.ru/posts/vnimanie-energija/</link>
@@ -28,7 +35,7 @@
       <link>https://sergl.ru/posts/sostradanie-k-sobstvennym-roditelyam/</link>
       <pubDate>Mon, 06 Jan 2025 06:05:36 +0300</pubDate>
       <guid>https://sergl.ru/posts/sostradanie-k-sobstvennym-roditelyam/</guid>
-      <description>О сострадании к родителям</description>
+      <description>Можно ли винить своих родителей в наших проблемах?</description>
     </item>
     <item>
       <title>Терапия для радости</title>
