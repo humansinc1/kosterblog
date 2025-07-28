@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Моя Музыка on Блог Сергея Л</title>
-    <link>https://sergl.ru/categories/%D0%BC%D0%BE%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</link>
-    <description>Recent content in Моя Музыка on Блог Сергея Л</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <title>Блог Сергея Л</title>
+    <link>http://localhost:1313/categories/%D0%BC%D0%BE%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/</link>
+    <description>Recent content on Блог Сергея Л</description>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 28 Aug 2023 07:06:36 +0300</lastBuildDate>
-    <atom:link href="https://sergl.ru/categories/%D0%BC%D0%BE%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%D0%BC%D0%BE%D1%8F-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Echo</title>
-      <link>https://sergl.ru/posts/the-echo/</link>
+      <link>http://localhost:1313/posts/the-echo/</link>
       <pubDate>Mon, 28 Aug 2023 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/the-echo/</guid>
+      <guid>http://localhost:1313/posts/the-echo/</guid>
       <description>Вот новая музыкальная мысль появилась. Появилась спонтанно, после творческого общения с моим университетским другом Женей З. Заехал к нему на работу, а он как раз придумывает звуки и музыку к одной компьютерной игре</description>
     </item>
     <item>
       <title>Space Journey</title>
-      <link>https://sergl.ru/posts/space-journey/</link>
+      <link>http://localhost:1313/posts/space-journey/</link>
       <pubDate>Sat, 26 Aug 2023 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/space-journey/</guid>
+      <guid>http://localhost:1313/posts/space-journey/</guid>
       <description>In searching for...</description>
     </item>
     <item>
       <title>The Sky is Reflected</title>
-      <link>https://sergl.ru/posts/the-sky-is-reflected/</link>
+      <link>http://localhost:1313/posts/the-sky-is-reflected/</link>
       <pubDate>Sun, 28 Nov 2021 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/the-sky-is-reflected/</guid>
+      <guid>http://localhost:1313/posts/the-sky-is-reflected/</guid>
       <description>Новая музыка! Снова совместно с Платоном Медведевым (за что ему большое спасибо). На этот раз получилось тоже задумчиво, но танцевально</description>
     </item>
     <item>
       <title>Autumn Mood</title>
-      <link>https://sergl.ru/posts/autumn-mood/</link>
+      <link>http://localhost:1313/posts/autumn-mood/</link>
       <pubDate>Wed, 24 Nov 2021 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/autumn-mood/</guid>
+      <guid>http://localhost:1313/posts/autumn-mood/</guid>
       <description>Вот и новая композиция подъехала. Неторопливая, задумчивая.</description>
     </item>
     <item>
       <title>Evening Mood</title>
-      <link>https://sergl.ru/posts/evening-mood/</link>
+      <link>http://localhost:1313/posts/evening-mood/</link>
       <pubDate>Wed, 06 Jan 2021 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/evening-mood/</guid>
+      <guid>http://localhost:1313/posts/evening-mood/</guid>
       <description>Music of inner peace in city landscapes</description>
     </item>
     <item>
       <title>Mood #1</title>
-      <link>https://sergl.ru/posts/mood-1/</link>
+      <link>http://localhost:1313/posts/mood-1/</link>
       <pubDate>Mon, 12 Oct 2020 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/mood-1/</guid>
+      <guid>http://localhost:1313/posts/mood-1/</guid>
       <description>Music for inner peace</description>
     </item>
   </channel>

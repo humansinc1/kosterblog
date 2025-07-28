@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Посмотреть on Блог Сергея Л</title>
-    <link>https://sergl.ru/categories/%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C/</link>
+    <link>http://localhost:1313/categories/%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C/</link>
     <description>Recent content in Посмотреть on Блог Сергея Л</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Fri, 29 Sep 2023 07:06:36 +0300</lastBuildDate>
-    <atom:link href="https://sergl.ru/categories/%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%D0%BF%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Magician’s Elephant</title>
-      <link>https://sergl.ru/posts/the-magicians-elephant/</link>
+      <link>http://localhost:1313/posts/the-magicians-elephant/</link>
       <pubDate>Fri, 29 Sep 2023 07:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/the-magicians-elephant/</guid>
+      <guid>http://localhost:1313/posts/the-magicians-elephant/</guid>
       <description>&lt;p&gt;Красивый и добрый мультфильм, который можно смотреть всей семьей - &lt;a href=&#34;https://ru.kinorium.com/678278/&#34;&gt;The Magician’s Elephant&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Маленький Николя</title>
-      <link>https://sergl.ru/posts/malenkij-nikolya/</link>
+      <link>http://localhost:1313/posts/malenkij-nikolya/</link>
       <pubDate>Sun, 19 Mar 2023 18:41:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/malenkij-nikolya/</guid>
+      <guid>http://localhost:1313/posts/malenkij-nikolya/</guid>
       <description>&lt;p&gt;Еще один мультфильм - &lt;a href=&#34;https://ru.kinorium.com/2385145/&#34;&gt;Маленький Николя&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;С большим для себя удивлением обнаружил, что это довольно знаменитая серия комиксов (один из создателей - папа Астерикса :). Так что можно и с более старшими детьми посмотреть и показать им комиксы, которые не про супергероев!&lt;/p&gt;
 &lt;p&gt;Вообще мультфильм скорее про дружбу взрослых, которые сумели сохранить своего внутреннего ребенка. Про жизнь и разлуку. Про Париж.&lt;/p&gt;
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Мальчик, крот, лис и конь</title>
-      <link>https://sergl.ru/posts/malchik-krot-lis-i-kon/</link>
+      <link>http://localhost:1313/posts/malchik-krot-lis-i-kon/</link>
       <pubDate>Wed, 15 Feb 2023 19:06:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/malchik-krot-lis-i-kon/</guid>
+      <guid>http://localhost:1313/posts/malchik-krot-lis-i-kon/</guid>
       <description>&lt;p&gt;Хотел вот поделиться прекрасным мультфильмом, который недавно смотрели.&lt;/p&gt;
 &lt;p&gt;Cозерцательный, красиво нарисованный, медитативный - &lt;a href=&#34;https://ru.kinorium.com/9922892/&#34;&gt;Мальчик, крот, лис и конь&lt;/a&gt;&lt;/p&gt;</description>
     </item>

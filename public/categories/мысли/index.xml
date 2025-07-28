@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Мысли on Блог Сергея Л</title>
-    <link>https://sergl.ru/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/</link>
+    <link>http://localhost:1313/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/</link>
     <description>Recent content in Мысли on Блог Сергея Л</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 13 Jan 2025 10:05:36 +0300</lastBuildDate>
-    <atom:link href="https://sergl.ru/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/%D0%BC%D1%8B%D1%81%D0%BB%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Участие в Таинстве</title>
-      <link>https://sergl.ru/posts/uchastie-v-tainstve/</link>
+      <link>http://localhost:1313/posts/uchastie-v-tainstve/</link>
       <pubDate>Mon, 13 Jan 2025 10:05:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/uchastie-v-tainstve/</guid>
+      <guid>http://localhost:1313/posts/uchastie-v-tainstve/</guid>
       <description>О моём опыте партнерских родов</description>
     </item>
     <item>
       <title>О похвале, пользе системы и умении расслабляться</title>
-      <link>https://sergl.ru/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</link>
+      <link>http://localhost:1313/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</link>
       <pubDate>Sun, 09 Jun 2024 18:05:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</guid>
+      <guid>http://localhost:1313/posts/o-pohvale-polze-sistemi-i-umenii-rasslablyatsa/</guid>
       <description>мысли про похвалу, пользу системы и умении расслабляться</description>
     </item>
     <item>
       <title>Море информации, книга, фильм и как воспринимают любовь мужчины и женщины</title>
-      <link>https://sergl.ru/posts/more-informacii-kniga-film/</link>
+      <link>http://localhost:1313/posts/more-informacii-kniga-film/</link>
       <pubDate>Sun, 02 Jun 2024 18:05:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/more-informacii-kniga-film/</guid>
+      <guid>http://localhost:1313/posts/more-informacii-kniga-film/</guid>
       <description>мысли про море информации, книгу Никулина, фильм и как воспринимают любовь мужчины и женщины</description>
     </item>
     <item>
       <title>О велосипедных колесах, ремонте и педагогике</title>
-      <link>https://sergl.ru/posts/o-velosipednyh-kolyosah/</link>
+      <link>http://localhost:1313/posts/o-velosipednyh-kolyosah/</link>
       <pubDate>Sat, 25 May 2024 18:05:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/o-velosipednyh-kolyosah/</guid>
+      <guid>http://localhost:1313/posts/o-velosipednyh-kolyosah/</guid>
       <description>Какой-то очень назойливый червяк не дает мне смириться с тем, что я хорошо умею только потреблять контент, а не создавать его. И вот мои поиски привели меня к формату рассылки.</description>
     </item>
     <item>
       <title>За что?</title>
-      <link>https://sergl.ru/posts/why/</link>
+      <link>http://localhost:1313/posts/why/</link>
       <pubDate>Sun, 30 Apr 2023 18:05:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/why/</guid>
+      <guid>http://localhost:1313/posts/why/</guid>
       <description>В поисках материала для нового выпуска подкаста наткнулся на книгу владыки Афанасия Лимасольского которая называется Открытое сердце Церкви и одной его мыслью хотел бы с вами поделиться. Мы живем во время больших потрясений, боли и беды, и часто задаем вопрос почему?</description>
     </item>
     <item>
       <title>Две стороны прощения</title>
-      <link>https://sergl.ru/posts/two-sides-of-forgiveness/</link>
+      <link>http://localhost:1313/posts/two-sides-of-forgiveness/</link>
       <pubDate>Thu, 30 Dec 2021 16:52:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/two-sides-of-forgiveness/</guid>
+      <guid>http://localhost:1313/posts/two-sides-of-forgiveness/</guid>
       <description>По мнению автора, у прощения есть две стороны: прощение как отказ от мести и прощение как снятие ответственности с человека за совершенные им поступки. Это очень интересная мысль и, кажется, не находится в противоречии с христианским пониманием. Конечно, христианское понимание гораздо глубже в том смысле, в том отношении к человеку после признания ответственности за поступки.</description>
     </item>
     <item>
       <title>Почему именно блог?</title>
-      <link>https://sergl.ru/posts/why-blog/</link>
+      <link>http://localhost:1313/posts/why-blog/</link>
       <pubDate>Thu, 21 Oct 2021 16:52:36 +0300</pubDate>
-      <guid>https://sergl.ru/posts/why-blog/</guid>
+      <guid>http://localhost:1313/posts/why-blog/</guid>
       <description>&lt;p&gt;Вам не надоели социальные сети? Их бесконечно меняющиеся правила, рекомендации, алгоритмы. А наша зависимость от реакций, комментариев? Тонны рекламы и &amp;ldquo;умные&amp;rdquo; ленты, которые предлагают нам то, что мы не искали.&lt;/p&gt;
 &lt;p&gt;Хочется создать небольшое пространство для своих мыслей и людей, которым эти мысли будут созвучны. Пространство, в котором можно писать что хочется, как хочется и только тогда, когда будет хотеться.&lt;/p&gt;
 &lt;p&gt;Что же здесь будет?&lt;/p&gt;
